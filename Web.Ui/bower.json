@@ -1,0 +1,22 @@
+{
+  "name": "beautifulchaos",
+  "authors": [
+    "William Langroudi"
+  ],
+  "description": "BC Website",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v3.3.7",
+    "jQuery": "3.0.0"
+  }
+}
